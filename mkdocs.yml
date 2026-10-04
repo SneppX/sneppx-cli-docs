@@ -1,0 +1,6 @@
+site_name: SneppX CLI Docs
+site_description: CLI reference for the SneppX ecosystem
+nav:
+  - Home: index.md
+theme:
+  name: readthedocs

@@ -6,3 +6,8 @@ Public docs site: API reference and build guides.
 **License:** MIT (open source)
 
 Part of the SneppX open-core ecosystem around `sneppx-alg`.
+
+## Deploy
+
+mkdocs gh-deploy
+
